@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "conquerlifecoapp",
+    "slug": "conquerlifecoapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
